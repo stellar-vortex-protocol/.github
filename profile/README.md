@@ -83,4 +83,4 @@ Vortex is open source and contributions are welcome — this is part of why the 
 
 ## License
 
-[MIT](https://github.com/vortex-protocol/.github/blob/main/LICENSE) © 2025 Vortex Protocol Contributors
+[MIT](https://github.com/vortex-protocol/.github/blob/main/LICENSE) © 2026 Vortex Protocol Contributors
